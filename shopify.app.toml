@@ -1,15 +1,14 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-client_id = "ee6168206fe0f99ba138522cecdaa717"
+client_id = "5d8de9874435211d6ba77a2590d28ead"
 application_url = "https://roles-authority-blackberry-expenses.trycloudflare.com"
 embedded = true
-name = "next-test-app"
-handle = "next-test-app-5"
+name = "discount-check"
+handle = "discount-check-1uuy"
 
 [build]
 automatically_update_urls_on_dev = true
-dev_store_url = "karan-working.myshopify.com"
-include_config_on_deploy = true
+dev_store_url = "ankush-work.myshopify.com"
 
 [webhooks]
 api_version = "2025-04"
